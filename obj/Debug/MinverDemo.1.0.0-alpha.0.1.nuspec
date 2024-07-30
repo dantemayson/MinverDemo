@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MinverDemo</id>
+    <version>1.0.0-alpha.0.1</version>
+    <authors>MinverDemo</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.json" target="lib\net5.0\MinverDemo.runtimeconfig.json" />
+    <file src="C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.dll" target="lib\net5.0\MinverDemo.dll" />
+  </files>
+</package>

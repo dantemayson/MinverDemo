@@ -1,0 +1,48 @@
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.exe
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.deps.json
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.json
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.dev.json
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.dll
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\ref\MinverDemo.dll
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\bin\Debug\net5.0\MinverDemo.pdb
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.csproj.AssemblyReference.cache
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.AssemblyInfoInputs.cache
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.AssemblyInfo.cs
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.csproj.CoreCompileInputs.cache
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.dll
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\ref\MinverDemo.dll
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.pdb
+C:\Users\alan.f\source\repos\MinverDemo\MinverDemo\obj\Debug\net5.0\MinverDemo.genruntimeconfig.cache
+C:\New folder\MinverDemo\bin\Debug\net5.0\MinverDemo.exe
+C:\New folder\MinverDemo\bin\Debug\net5.0\MinverDemo.deps.json
+C:\New folder\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.json
+C:\New folder\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.dev.json
+C:\New folder\MinverDemo\bin\Debug\net5.0\MinverDemo.dll
+C:\New folder\MinverDemo\bin\Debug\net5.0\ref\MinverDemo.dll
+C:\New folder\MinverDemo\bin\Debug\net5.0\MinverDemo.pdb
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.csproj.AssemblyReference.cache
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.AssemblyInfoInputs.cache
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.AssemblyInfo.cs
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.csproj.CoreCompileInputs.cache
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.dll
+C:\New folder\MinverDemo\obj\Debug\net5.0\ref\MinverDemo.dll
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.pdb
+C:\New folder\MinverDemo\obj\Debug\net5.0\MinverDemo.genruntimeconfig.cache
+C:\new\min\MinverDemo\bin\Debug\net5.0\MinverDemo.exe
+C:\new\min\MinverDemo\bin\Debug\net5.0\MinverDemo.deps.json
+C:\new\min\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.json
+C:\new\min\MinverDemo\bin\Debug\net5.0\MinverDemo.runtimeconfig.dev.json
+C:\new\min\MinverDemo\bin\Debug\net5.0\MinverDemo.dll
+C:\new\min\MinverDemo\bin\Debug\net5.0\ref\MinverDemo.dll
+C:\new\min\MinverDemo\bin\Debug\net5.0\MinverDemo.pdb
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.csproj.AssemblyReference.cache
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.AssemblyInfoInputs.cache
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.AssemblyInfo.cs
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.csproj.CoreCompileInputs.cache
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.dll
+C:\new\min\MinverDemo\obj\Debug\net5.0\ref\MinverDemo.dll
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.pdb
+C:\new\min\MinverDemo\obj\Debug\net5.0\MinverDemo.genruntimeconfig.cache
